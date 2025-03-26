@@ -163,8 +163,8 @@ Fetch all tasks assigned to a specific user.
 ### Users
 | ID  | Name       | Email              |
 |-----|-----------|--------------------|
-| 1   | John Doe  | john@example.com   |
-| 2   | Jane Smith| jane@example.com   |
+| 4   | chandan  | chandan@example.com   |
+| 5   | charan   | kanta@gmail.com   |
 
 ### Tasks
 | ID  | Name                    | Task Type |
